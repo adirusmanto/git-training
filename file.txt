@@ -2,3 +2,5 @@ File pertama fi git repository
 
 baris kedua
 baris ketiga
+
+asdsad

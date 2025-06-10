@@ -1,2 +1,4 @@
 file baru
 baris baru file2
+
+asdasdas
